@@ -1,0 +1,19 @@
+﻿La génération a démarré 20/02/2024 3:42:32 PM.
+     1>Projet "C:\Users\Malef\Desktop\Master_Lyon\Semestre2\Programme_C_Behzad\ExerciceC\CAO\CAO\CAO.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Editeur_Courbe.cpp
+         Editeur_Courbe.cpp
+     1>c:\users\malef\desktop\master_lyon\semestre2\programme_c_behzad\exercicec\cao\cao\editeur_courbe.cpp(230): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+     1>c:\users\malef\desktop\master_lyon\semestre2\programme_c_behzad\exercicec\cao\cao\editeur_courbe.cpp(257): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+     1>c:\users\malef\desktop\master_lyon\semestre2\programme_c_behzad\exercicec\cao\cao\editeur_courbe.cpp(334): warning C4101: 'D' : variable locale non référencée
+     1>c:\users\malef\desktop\master_lyon\semestre2\programme_c_behzad\exercicec\cao\cao\editeur_courbe.cpp(335): warning C4101: 'j' : variable locale non référencée
+     1>c:\users\malef\desktop\master_lyon\semestre2\programme_c_behzad\exercicec\cao\cao\editeur_courbe.cpp(268): warning C4715: 'Calc_r' : les chemins de contrôle ne retournent pas tous une valeur
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Malef\Desktop\Master_Lyon\Semestre2\Programme_C_Behzad\ExerciceC\CAO\Debug\CAO.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Malef\Desktop\Master_Lyon\Semestre2\Programme_C_Behzad\ExerciceC\CAO\Debug\CAO.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Malef\Desktop\Master_Lyon\Semestre2\Programme_C_Behzad\ExerciceC\CAO\Debug\CAO.lib" /MACHINE:X86 Debug\TP1.res
+         Debug\Editeur_Courbe.obj
+         CAO.vcxproj -> C:\Users\Malef\Desktop\Master_Lyon\Semestre2\Programme_C_Behzad\ExerciceC\CAO\Debug\CAO.exe
+     1>Génération du projet "C:\Users\Malef\Desktop\Master_Lyon\Semestre2\Programme_C_Behzad\ExerciceC\CAO\CAO\CAO.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.98
